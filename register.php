@@ -1,0 +1,10 @@
+<?php
+/* 
+id
+nombre
+apellido
+pais
+email
+password
+categoria
+*/
